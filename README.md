@@ -1,5 +1,5 @@
 # Color-maker
-__Color-maker__ is really simple console programme which generate colors
+__Color-maker__ is really simple console program which generate colours
 
 ## Requirements
 Git and Node.js installed
