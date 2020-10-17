@@ -167,7 +167,7 @@ function textInput(error) {
 }
 
 function notValid() {
-  console.log(warning("Warning! 0 or less are not a valid value"));
+  console.log(warning("Warning! 0 or less are not a valid values"));
 }
 
 function exit() {
@@ -185,7 +185,7 @@ function logicalPart(select, levels, text) {
 
   var text;
   var levels;
-  console.log(select, levels, text);
+
   switch (
     select //logic of selected mode
   ) {
