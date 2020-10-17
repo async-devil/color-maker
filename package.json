@@ -1,0 +1,28 @@
+{
+  "name": "color-maker",
+  "version": "1.0.0",
+  "description": "program to generate colors",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-devil/color-maker.git"
+  },
+  "keywords": [
+    "Node.js",
+    "color-picker",
+    "console"
+  ],
+  "author": "async-devil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/async-devil/color-maker/issues"
+  },
+  "homepage": "https://github.com/async-devil/color-maker#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "enquirer": "^2.3.6"
+  }
+}
